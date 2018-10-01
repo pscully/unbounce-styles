@@ -1,0 +1,40 @@
+.welcome__h {
+    text-align: center; 
+    font-family: Muli; 
+    font-weight: 200; 
+    font-style: normal; 
+    color: rgb(255, 255, 255); 
+    font-size: 38px;
+    line-height: 50px;
+  }
+    
+  .welcome__p {
+    text-align: center; 
+    font-family: Muli; 
+    font-weight: 200; 
+    font-style: normal; 
+    color: rgb(255, 255, 255); 
+    font-size: 18px;
+    line-height: 24px;
+  }
+    
+  .welcome__p--alert {
+    text-align: center; 
+    font-family: Muli; 
+    font-weight: 200; 
+    font-style: normal; 
+    color: orange; 
+    font-size: 16px;
+    line-height: 22px;
+    text-decoration: underline;
+  }
+    
+  .welcome__p--note {
+    text-align: center; 
+    font-family: Muli; 
+    font-weight: 200; 
+    font-style: normal; 
+    color: lavender; 
+    font-size: 15px;
+    line-height: 22px;
+  }
