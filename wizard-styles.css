@@ -6,6 +6,7 @@
     color: rgb(255, 255, 255); 
     font-size: 38px;
     line-height: 50px;
+    letter-spacing: 1px;
   }
 
   .welcome__h2 { 
@@ -15,6 +16,7 @@
     color: rgb(255, 255, 255); 
     font-size: 28px;
     line-height: 42px;
+    letter-spacing: 1px;
   }
     
   .welcome__p {
@@ -25,6 +27,7 @@
     color: rgb(255, 255, 255); 
     font-size: 18px;
     line-height: 24px;
+    letter-spacing: 1px;
   }
 
   .welcome__a {
@@ -36,6 +39,7 @@
     font-size: 18px;
     line-height: 24px;
     text-decoration: underline;
+    letter-spacing: 1px;
    }
 
   .welcome__a:hover {
