@@ -8,18 +8,26 @@
     line-height: 50px;
   }
 
-  .welcome__h2 {
-    text-align: center; 
+  .welcome__h2 { 
     font-family: Muli; 
     font-weight: 200; 
     font-style: normal; 
     color: rgb(255, 255, 255); 
     font-size: 28px;
-    line-height: 50px;
+    line-height: 42px;
   }
     
   .welcome__p {
     text-align: center; 
+    font-family: Muli; 
+    font-weight: 200; 
+    font-style: normal; 
+    color: rgb(255, 255, 255); 
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+   .welcome__p--instructions {
     font-family: Muli; 
     font-weight: 200; 
     font-style: normal; 
