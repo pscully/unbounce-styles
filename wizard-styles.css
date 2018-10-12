@@ -36,11 +36,16 @@
     font-size: 18px;
     line-height: 24px;
     text-decoration: underline;
-      
-      :hover {
-          color: rgb(255, 255, 255); 
-      }
    }
+
+  .welcome__a:hover {
+    color: rgb(208, 217, 242); 
+    cursor: pointer;
+   }
+
+  .welcome__a:visited {
+     color: rgb(255, 112, 82);
+    }
 
    .welcome__p--instructions {
     font-family: Muli; 
