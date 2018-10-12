@@ -19,13 +19,13 @@
   }
     
   .welcome__p--alert {
-    text-align: center; 
+    text-align: left; 
     font-family: Muli; 
     font-weight: 200; 
     font-style: normal; 
     color: orange; 
     font-size: 16px;
-    line-height: 22px;
+    line-height: 26px;
   }
     
   .welcome__p--note {
