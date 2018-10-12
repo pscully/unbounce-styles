@@ -81,3 +81,26 @@
     font-size: 15px;
     line-height: 22px;
   }
+
+@media only screen and (max-width: 768px) {
+    .welcome__h2 { 
+    text-align: center; 
+    font-family: Muli; 
+    font-weight: 200; 
+    font-style: normal; 
+    color: rgb(255, 255, 255); 
+    font-size: 28px;
+    line-height: 42px;
+    letter-spacing: 1px;
+  }
+    .welcome__p--instructions {
+    text-align: center; 
+    font-family: Muli; 
+    font-weight: 200; 
+    font-style: normal; 
+    color: rgb(255, 255, 255); 
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 1px;
+  }
+}
