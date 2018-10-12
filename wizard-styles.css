@@ -36,6 +36,10 @@
     font-size: 18px;
     line-height: 24px;
     text-decoration: underline;
+      
+      :hover {
+          color: rgb(255, 255, 255); 
+      }
    }
 
    .welcome__p--instructions {
